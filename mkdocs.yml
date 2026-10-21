@@ -1,0 +1,8 @@
+site_name: My Docs
+site_url: https://Gabriel-S-Inacio.github.io
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Arquitetura: arquitetura.md
