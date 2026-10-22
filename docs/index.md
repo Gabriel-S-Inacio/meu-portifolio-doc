@@ -1,4 +1,3 @@
-
 # Learn to Learn English — Arquitetura Técnica do Front-end
 
 - **Projeto:** Learn to Learn English
@@ -540,7 +539,3 @@ Aplicar os seguintes rótulos à página no Confluence:
 |---|---|---|
 | 1.0 | 18/09/2026 | Criação inicial da documentação técnica |
 | 1.1 | 03/10/2026 | Refatoração pelos 3 Cs, classificação documental, rastreabilidade, labels e definição do diagrama arquitetural |
-
----
-
-![Texto alternativo](caminho-da-imagem.png "Título opcional")
